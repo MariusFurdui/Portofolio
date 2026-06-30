@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1736271034 source:c:\marius\utcn-ac-cti\pc\seminar\tema5\pathofexam\main.c
+	<stdio.h>
+	<stdlib.h>
+	"poe.h"
+	<string.h>
+
+1736355096 source:c:\marius\utcn-ac-cti\pc\seminar\tema5\pathofexam\poe.c
+	<stdio.h>
+	<stdlib.h>
+	"poe.h"
+	<string.h>
+	<math.h>
+	<stdbool.h>
+
+1736252194 c:\marius\utcn-ac-cti\pc\seminar\tema5\pathofexam\poe.h
+	<stdbool.h>
+

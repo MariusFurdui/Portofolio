@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1669578754 source:g:\onedrive\desktop\02\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<mmsystem.h>
+	<cstdlib>
+
+1782836568 source:c:\marius\projects\finalizate\coinflipper\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<iomanip>
+	<windows.h>
+	<fstream>
+	<cstring>
+	<mmsystem.h>
+	<cstdlib>
+

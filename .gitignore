@@ -1,0 +1,45 @@
+# =========================
+# 1. C / C++ / Code::Blocks
+# =========================
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.o
+*.db
+
+# =========================
+# 2. Visual Studio / C#
+# =========================
+.vs/
+packages/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.sdf
+
+# =========================
+# 3. Java / Maven
+# =========================
+target/
+.idea/
+
+# =========================
+# 4. Vivado / VHDL / FPGA
+# =========================
+*.runs/
+*.sim/
+*.cache/
+*.hw/
+*.bit
+*.dcp
+*.rpt
+*.jou
+*.log
+*.pb
+*.rpx
+*.wdf
+*.backup.*

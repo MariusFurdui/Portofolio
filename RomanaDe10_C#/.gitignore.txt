@@ -1,0 +1,21 @@
+# Foldere generate de Visual Studio / Code::Blocks
+bin/
+obj/
+.vs/
+.vscode/
+Debug/
+Release/
+
+# Fișiere temporare
+*.exe
+*.o
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Fișiere de setări locale
+*.db
+*.log
+
+Eseuri/
